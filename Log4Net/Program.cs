@@ -8,7 +8,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Log4Net2
+namespace Log4Net
 {
     internal class Program
     {
