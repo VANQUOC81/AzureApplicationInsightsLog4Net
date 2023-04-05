@@ -12,7 +12,7 @@ To run this project, you will need:
 
 ## Installation
 1. Clone the repository to your local machine.
-2. Open the solution file (**ApplicationInsightsWithLog4Net.sln**) in Visual Studio.
+2. Open the solution file (**Log4Net.sln**) in Visual Studio.
 3. Build the solution to restore dependencies.
 4. Configure the Application Insights instrumentation key in web.config or app.config.
 5. Run the application.
