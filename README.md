@@ -31,3 +31,6 @@ Contributions are welcome! Please open an issue or pull request if you would lik
 
 If you have any questions about this project feel free to ask.
 
+## License
+This project is licensed under the **[MIT License](https://github.com/VANQUOC81/AzureApplicationInsightsLog4Net/blob/main/LICENSE)**.
+
